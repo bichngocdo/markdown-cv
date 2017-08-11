@@ -1,91 +1,80 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Bich-Ngoc Do's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Bich-Ngoc Do
+Doctoral researcher.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+do<i class="fa fa-at"></i>cl.uni-heidelberg.de
+| <a href="http://www.cl.uni-heidelberg.de/~do">Home page</a>
 </div>
 
 
-## Currently
+## Research Interests
 
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Syntactic parsing, neural network models, deep learning
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`09/2013 - 02/2016`
+__University of Groningen__ (Groningen, The Netherlands) & __Charles University in Prague__ (Prague, Czech Republic)
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+_Master in Language and Communication Technologies, Erasmus Mundus_ (double degree, cum laude, Erasmus Mundus scholarship holder)
 
-- Sizar
+Thesis topic: Neural Networks for Automatic Speaker, Language and Sex Identification [[pdf](http://irs.ub.rug.nl/dbi/56950cca9fa62)]
 
-`1667 - death`
-__Trinity College, Cambridge__
+`08/2007 - 06/2012`
+__Hanoi University of Science and Technology__ (Hanoi, Vietnam)
 
-- Fellow
-
+_Engineering in Information Technology_ (degree classification: "very good")
 
 
-## Awards
+## Employment
 
-`2012`
-President, *Royal Society*, London, UK
+`01/2016 - now`
+_Doctoral Researcher_ at __Institute of Computational Linguistics, Heidelberg University__ (Heidelberg, Germany)
 
-Associate, *French Academy of Science*, Paris, France
+`08/2012 - 07/2013`
+_Researcher_ at __ePi Technologies, JSC.__ (Hanoi, Vietnam)
 
+Designed and implemented a MapReduce engine to recommend daily news for users based on their past on-line behavior statistics, such as page
+views, page rating and Facebook interactions. The engine was deployed on Amazon EC2 servers. As a team leader of R&D team: Planned and distributed workloads for team members, conducted project meetings, provided technical training for junior staffs.
 
+`08/2012 - 07/2013`
+_R&D Coordinator_ at __ePi Technologies, JSC.__ (Hanoi, Vietnam)
+
+Developed a system to recognize named entities for the Vietnamese language based on hand crafted rules. Parts of [the system](https://bitbucket.org/epilab/vnlp/wiki/Home) were released as open-source plugins for GATE. Designed, developed and tested a web-based sentiment analysis system to automatically extract people attitude from documents collected from several sources, such as news, forum discussions, tweets and Facebook statuses. This project was developed for the Vietnamese language and was a major component of a big system which monitors online reputation of brands and individuals.
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+`2017`
+__Do, Bich-Ngoc__ and Rehbein, Ines. Evaluating LSTM Models for Grammatical Function Labelling. _Proceedings of the 15th International Conference on Parsing Technologies (IWPT 2017)_. Pisa, Italy.
 
-### Journals
+`2017`
+__Do, Bich-Ngoc__, Rehbein, Ines, and Frank, Anette. What Do We Need to Know about an Unknown Word When Parsing German. _Proceedings of the 1st Workshop on Subword and Character Level Models in NLP (SCLeM 2017)_. Copenhagen, Denmark.
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+`2013`
+Le, Ngoc Minh, __Do, Bich Ngoc__, Nguyen, Vi Duong, and Nguyen, Thi Dam. VNLP: An Open Source Framework for Vietnamese Natural Language Processing. _Proceedings of the 4th Symposium on Information and Communication Technology (SoICT 2013)_. Da Nang, Vietnam.
 
-`1669`
-Lectiones opticæ.
+## Technical Skills
 
-etc. etc. etc.
+* __Programming Languages__: Java/Java EE, Python
+* __Libraries__: Theano, Keras, NumPy, Stanford CoreNLP, NLTK, GATE, Hadoop MapReduce
+* __Tools__: Git/Mercurial, Maven, Eclipse
 
-### Patents
+## Activities and Interests
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+### Hobbies
+Cooking and food photography.
 
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
+### Music
+I have been playing piano since the age of 7.
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: August 2017 -->
 
 
