@@ -50,13 +50,13 @@ Developed a system to recognize named entities for the Vietnamese language based
 ## Publications
 
 `2017`
-__Do, Bich-Ngoc__ and Rehbein, Ines. Evaluating LSTM Models for Grammatical Function Labelling. _Proceedings of the 15th International Conference on Parsing Technologies (IWPT 2017)_. Pisa, Italy.
+__Do, Bich-Ngoc__ and Rehbein, Ines. Evaluating LSTM Models for Grammatical Function Labelling. *Proceedings of the 15th International Conference on Parsing Technologies (IWPT 2017)*. Pisa, Italy.
 
 `2017`
-__Do, Bich-Ngoc__, Rehbein, Ines, and Frank, Anette. What Do We Need to Know about an Unknown Word When Parsing German. _Proceedings of the 1st Workshop on Subword and Character Level Models in NLP (SCLeM 2017)_. Copenhagen, Denmark.
+__Do, Bich-Ngoc__, Rehbein, Ines, and Frank, Anette. What Do We Need to Know about an Unknown Word When Parsing German. *Proceedings of the 1st Workshop on Subword and Character Level Models in NLP (SCLeM 2017)*. Copenhagen, Denmark.
 
 `2013`
-Le, Ngoc Minh, __Do, Bich Ngoc__, Nguyen, Vi Duong, and Nguyen, Thi Dam. VNLP: An Open Source Framework for Vietnamese Natural Language Processing. _Proceedings of the 4th Symposium on Information and Communication Technology (SoICT 2013)_. Da Nang, Vietnam.
+Le, Ngoc Minh, __Do, Bich Ngoc__, Nguyen, Vi Duong, and Nguyen, Thi Dam. VNLP: An Open Source Framework for Vietnamese Natural Language Processing. *Proceedings of the 4th Symposium on Information and Communication Technology (SoICT 2013)*. Da Nang, Vietnam.
 
 ## Technical Skills
 
